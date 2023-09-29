@@ -109,7 +109,34 @@ nav{
 }
 .display6{
     display: flex;
+    margin-top: 60px;
 }
 .tech{
     margin-top: 200px;
+}
+.tech p{
+    color: #224093;
+    padding-top: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.ven{
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 80px;
+    color: #224093;
+    margin-top: 10px;
+}
+.venue{
+    background-image: url(image/Venue-1-38edfbf0.png);
+    height: 500px;
+    width: 1200px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+.venue h1{
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    padding: 40px;
 }
