@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:  #F5F5F5;;
+}
+nav{
+    background-color: #F5F5F5;
+    position: fixed;
+}
+.ibadan{
+    padding-top: 100px;
+}
+.display{
+    display: flex;
+    gap: 500px;
+}
+.img{
+    width: 90px;
+    padding: 20px;
+}
+.achor{
+    margin: 40px;
+}
+.anchor{
+    text-decoration: none;
+    font-size: 25px;
+    color: blue;
+    font-family: sans-serif;
+    font-weight: 400;
+    margin: 25px;
+}
+.anchor:hover{
+    text-decoration: underline;
+    text-decoration-color: gold;
+}
+.but{
+    height: 40px;
+    width: 130px;
+    background-color: gold;
+    border: none;
+    border-radius: 5px;
+}
+.but a{
+    color: blue;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+}
+.but a:hover{
+    color: white;
+}
+.img2{
+    width: 1280px;
+    padding: 20px;
+    background-color: #F5F5F5;
+}
+.line{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.display2{
+    display: flex;
+    padding: 20px;
+}
+.display2 p{
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    color: #224093;
+}
+.display4{
+    display: flex;
+    gap: 100px;
+    padding: 20px;
+}
+.buy{
+    border: 2px solid gold;
+    width: 700px;
+    height: 50px;
+    background-color: gold;
+}
+.buy h2{
+    color: #224093;
+    font-weight: 600;
+    font-family: sans-serif;
+    padding: 10px;
+    margin-left: 150px;
+}
+.display5{
+    background-color: rgb(80, 80, 134);
+    height: 300px;
+    width: 1200px;
+    margin-left: 25px;
+    border-radius: 10px;
+}
+.display5 h1{
+    margin-left: 500px;
+    padding: 15px;
+    color: white;
+    font-size: 60px;
+}
+.display5 h2{
+    margin-left: 400px;
+    color: white;
+}
+.display6{
+    display: flex;
+}
+.tech{
+    margin-top: 200px;
+}
